@@ -376,6 +376,16 @@ button {
   padding: 5px;
 
 }
+.buttondwn2 {
+  display: inline-block;
+  text-align: center;
+  white-space: nowrap;
+  padding: 10px 20px;
+  background-color: #007BFF;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
 
 .dwn:hover {
 
