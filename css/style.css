@@ -375,16 +375,15 @@ button {
   border-radius: 25px;
   padding: 5px;
 
-}
 .buttondwn2 {
   display: inline-block;
   text-align: center;
   white-space: nowrap;
-  padding: 10px 20px;
-  background-color: #007BFF;
+  padding: 7px;
+  background-color: black;
   color: white;
   text-decoration: none;
-  border-radius: 5px;
+  border-radius: 25px;
 }
 
 .dwn:hover {
